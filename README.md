@@ -14,7 +14,7 @@ The purpose of this program is to demonstrate the basic setup for programming, G
 
 ## Useful Websites
 
-- https://Learn.microsoft.com
+- https://learn.microsoft.com/en-us/dotnet/csharp/
 - https://github.com
 
 ## Future work
