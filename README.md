@@ -8,7 +8,7 @@ The purpose of this program is to demonstrate the basic setup for programming, G
 ## Development Environment
 
 - Visual Studio Code
-- Git
+- .Net SDK
 - GitHub
 - C#
 
@@ -19,4 +19,6 @@ The purpose of this program is to demonstrate the basic setup for programming, G
 
 ## Future work
 
-In the future I could expand this program by adding user input and additional functionally.
+- Learn more about classes and objects in C#
+- Create larger console applications
+- Improve file handling skills
